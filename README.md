@@ -1,6 +1,6 @@
-# 2nd_Settings
-내용
-## 중간제목
-내용 
-### 작은제목
-내용
+# Android Basic Settings
+Build Tools : Gradle
+Code Inspector : Lint
+VCS : Git
+C.I. : Travis
+
